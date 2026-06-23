@@ -1,0 +1,15 @@
+{
+  "name": "node_js",
+  "version": "1.0.0",
+  "description": "Node_js course",
+  "license": "ISC",
+  "author": "Lexi",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
